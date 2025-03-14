@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <FoodForm />
-      <h1>附近的餐廳</h1>
+      <h3>附近的餐廳</h3>
       <Map />
     </div>
   );
